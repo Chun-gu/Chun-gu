@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![]()  
   
 
-### <div align="center">조금 느려도 지속적으로 성장합니다</div>  
+### <div align="center">Front-end</div>  
   
 
 <br/>  
@@ -37,19 +37,6 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="50%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="75" />  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
