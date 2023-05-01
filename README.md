@@ -35,7 +35,7 @@
   <!-- React-Query -->
   <img src= "https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
   <!-- Redux Tool Kit -->
-  <img src= "https://img.shields.io/badge/react tool kit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src= "https://img.shields.io/badge/re tool kit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <!-- Recoil -->
   <img src= "https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logo=&logoColor=white">
   <!-- Strapi -->
