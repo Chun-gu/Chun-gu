@@ -15,7 +15,7 @@
   <!-- styled-components -->
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <!-- tailwind -->
-<!--   <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
 ### Language
@@ -37,11 +37,13 @@
   <!-- Redux Tool Kit -->
   <img src= "https://img.shields.io/badge/redux tool kit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <!-- Recoil -->
-  <img src= "https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logo=&logoColor=white">
+  <img src= "https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logo=recoil&logoColor=white">
+  <!-- Zustand -->
+  <img src= "https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=&logoColor=white">
   <!-- Strapi -->
   <img src= "https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
   <!-- prisma -->
-<!--   <img src= "https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> -->
+  <img src= "https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <!-- MongoDB -->
 <!--   <img src= "https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> -->
   <!-- Firebase -->
