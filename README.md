@@ -65,7 +65,7 @@
 ## Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Chun-gu&show_icons=true&count_private=true&hide_border=true" />
-  <a href="https://solved.ac/fedevchun"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fedevchun" /></a>
+	<a href="https://solved.ac/fedevchun" ><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fedevchun" /></a>
 </div>
 
 
