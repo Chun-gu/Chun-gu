@@ -41,13 +41,13 @@
   <!-- Zustand -->
   <img src= "https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=&logoColor=white">
   <!-- Strapi -->
-  <img src= "https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
+  <!-- <img src= "https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"> -->
   <!-- prisma -->
   <img src= "https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <!-- MongoDB -->
-<!--   <img src= "https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> -->
+  <!-- <img src= "https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> -->
   <!-- Firebase -->
-<!--   <img src= "https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> -->
+  <!-- <img src= "https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> -->
 </div>
 
 ### Infra
@@ -62,7 +62,10 @@
   <img src= "https://img.shields.io/badge/lambda-FF9900?style=for-the-badge&logo=aws lambda&logoColor=white">
 </div>
 
-## GitHub Status
+## Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chun-gu&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chun-gu&show_icons=true&count_private=true&hide_border=true" />
+  <a href="https://solved.ac/fedevchun"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fedevchun" /></a>
 </div>
+
+
